@@ -82,12 +82,11 @@ After filling the slots for date, country and shape we can see four results that
 
 ## Summary
 
-Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+Even though the website was a great way to explore UFO sightings data and learn more about JavaScript and HTML, the tool has its drawbacks. The main problem is the limited dataset that contains only data from 2010 
+In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-The filters will refresh the table as soon as the user fills one or multiple filter fields and clicks anywhere on the screen.
+simple and easy to use.
 
-The webpage serves as a UFO sightings data exploration tool that is simple and easy to use. A drawback of the suggested design is that no data aggregation is available and it is difficult to easily understand for example which US city/state has accumulated the most UFO sightings.
 
 Main drawback The data available in the website is quite putdated 
 
