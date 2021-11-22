@@ -3,7 +3,7 @@ Module 11 - JavaScript
 
 ## Project Overview
 
-Create an interactive webpage using Bootstrap that allows readers to parse the data around UFO sightings. Essentially the projects involves two parts: the webpage that will allow users to view the data (HTML) and a dynamic table that will present it (JavaScript). To allow users to interact with the visualizations the table needs to be equipped with several fully functional filters: 
+Create an interactive webpage using Bootstrap that allows readers to parse the data around UFO sightings. Essentially the projects involves two parts: the webpage that will allow users to view the data (HTML) and a dynamic table that will present it (JavaScript). To allow users to interact with the visualizations the table needs to be equipped with four additional fully functional filters: 
 
 - City
 - State
@@ -82,11 +82,6 @@ After filling the slots for date, country and shape we can see four results that
 
 ## Summary
 
-Even though the website was a great way to explore UFO sightings data and learn more about JavaScript and HTML, the tool has its drawbacks. The main problem is the limited dataset that contains only data from 2010 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+Even though the website was a great way to explore UFO sightings data and learn more about JavaScript and HTML, the tool has its drawbacks. The main problem is the very limited and outdated dataset that contains only data from one specific year and it's restricted to the US and Canada. 
 
-simple and easy to use.
-
-
-Main drawback The data available in the website is quite putdated 
-
+A recommendation would be to explore the internet for more information and datasets with UFO sightings information, also, it would be interesting to add images or even articles about famous sightings all over the world. Once the data is more up-to-date more features could be added to increase interactivity with users, such as maps, additional filters and links to reliable sources. 
